@@ -1,4 +1,8 @@
 # Ansible Role: Copr Repository Management
+
+## Originally here - https://github.com/abn/role-copr-repository
+All credit to original author. I have simply added meta data for Ansible Galaxy so I can bring this in as a dependency more easily.
+
 This role allows for the addition and removal of a copr repository from CentOS/Fedora hosts.
 
 ### Sample playbook
